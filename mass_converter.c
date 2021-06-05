@@ -23,6 +23,7 @@ int main()
 
     while(g == 0)
     {
+        printf("\n------------------------------------------");
         printf("\nType Your Number to select converters\n");
         scanf("%d", &num);
 
